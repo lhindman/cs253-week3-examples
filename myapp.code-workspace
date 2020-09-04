@@ -2,6 +2,24 @@
 	"folders": [
 		{
 			"path": "MyApp"
+		},
+		{
+			"path": "DataTypes"
+		},
+		{
+			"path": "DataConv"
+		},
+		{
+			"path": "Characters"
+		},
+		{
+			"path": "String"
+		},
+		{
+			"path": "StringLib"
+		},
+		{
+			"path": "StringTrouble"
 		}
 	],
 	"settings": {
