@@ -1,0 +1,7 @@
+main
+myprog
+mytests
+*.o
+*.d
+*.swp
+
