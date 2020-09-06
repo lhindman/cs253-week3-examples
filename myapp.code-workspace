@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "String"
+		},
+		{
+			"path": "UserInput"
 		}
 	],
 	"settings": {
